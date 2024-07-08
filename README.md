@@ -1,4 +1,7 @@
-## Hi there 👋
+<div id="header" align="center">
+  <h1>👋 Hi there, I'm Konstantin!</h1>
+  <h3>Go developer from Moscow 🇷🇺</h3>
+</div>
 
 <!--
 **KonstantinSavin/KonstantinSavin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +14,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: ..
 - ⚡ Fun fact: ...
 -->
