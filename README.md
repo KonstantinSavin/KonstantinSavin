@@ -8,7 +8,7 @@
 </a>
 </div>
 
-:red_circle:
+:ru:
 
 <!--
 **KonstantinSavin/KonstantinSavin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
