@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1>👋 Hi there, I'm Konstantin!</h1>
-  <h3>Go developer from Moscow</h3>
+  <h3>Go developer from Moscow :ru:</h3>
 </div>
 <div id="socials" align="center">
 <a href="https://t.me/Kosnstantin_Savin">
