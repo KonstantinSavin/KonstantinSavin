@@ -7,8 +7,7 @@
 <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
 </div>
-
-:ru:
+:black_small_square: 🌱 I’m currently learning Go, PostgreSQL
 
 <!--
 **KonstantinSavin/KonstantinSavin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
