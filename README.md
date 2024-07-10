@@ -8,20 +8,23 @@
 </a>
 </div>
 
-<div align="center">
-  About me
-:black_small_square: 🌱 I’m currently learning Go, PostgreSQL
+### About me
+- 🌱 I’m currently learning **Go, PostgreSQL**
+- 📄 Know about my experiences [CV](cv-link)
+- 📫 Reach me by [email](mailto:savinkonstantin93@gmail.com)
+---
+
+### Languages and tools
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" title="go" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="sql" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="angular" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="bootstrap" width="40" height="40"/>&nbsp;
+
+
+### My stat
+
+<div id="stat" align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KonstantinSavin&theme=github_dark" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KonstantinSavin&theme=github_dark" alt=""/>
 </div>
-
-<!--
-**KonstantinSavin/KonstantinSavin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Go, PostgreSQL
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ..
-- ⚡ Fun fact: ...
--->
