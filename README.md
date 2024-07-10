@@ -7,7 +7,9 @@
 <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
 </div>
+
 <div align="center">
+  About me
 :black_small_square: 🌱 I’m currently learning Go, PostgreSQL
 </div>
 
