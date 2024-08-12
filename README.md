@@ -8,6 +8,8 @@
 </a>
 </div>
 
+I'm looking for my first job in IT!
+
 ### About me
 - 🌱 I’m currently learning **Go, PostgreSQL**
 - 📄 Know about my experiences [CV](https://hh.ru/resume/20824252ff059009930039ed1f4f4548733464?disableBrowserCache=true&hhtmFrom=resume_list)
