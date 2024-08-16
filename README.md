@@ -8,7 +8,7 @@
 </a>
 </div>
 
-I'm looking for my first job in IT!
+Now I'm going to start in IT!
 
 ### About me
 - 🌱 I’m currently learning **Go, PostgreSQL**
