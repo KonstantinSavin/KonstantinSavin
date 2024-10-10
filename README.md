@@ -14,7 +14,7 @@ Here I post my code and pet projects - portfolio.
 - 🌱 I graduated from Moscow State University, Faculty of Physics
 - 🎓 In 2022 I defended my PhD thesis in semiconductor physics
 - 👨‍🔬 I have been working in science for 9 years now, and I realized that I want to enter IT
-- 📄 Know about my experiences [CV](https://hh.ru/resume/c748ea8dff0d95b9100039ed1f517a6a423774)
+- 📄 Know about my experiences [CV](https://www.superjob.ru/resume/programmist-go-55253713.html)
 - 🤙 Reach me by [email](mailto:savinkonstantin93@gmail.com) or [telegram](https://t.me/Kosnstantin_Savin)
 ---
 
